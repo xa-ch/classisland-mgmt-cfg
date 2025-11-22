@@ -7,7 +7,7 @@
     },
     "TimeLayoutSource": {
         "Value": "https://raw.githubusercontent.com/xa-ch/classisland-mgmt-cfg/master/timelayouts.json",
-        "Version": 1
+        "Version": 2
     },
     "SubjectsSource": {
         "Value": "https://raw.githubusercontent.com/xa-ch/classisland-mgmt-cfg/master/subjects.json",
